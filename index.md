@@ -6,3 +6,4 @@ In the following files there are few lines of code I used for my master, PhD, et
 
 2. [Plotter for Microwave Pulses](https://github.com/sciglio/QuantumPotes/blob/master/Pulses_plotter.ipynb): Jupyter notebook for visualizing pulses on different channels. ![Plot visualization](https://raw.githubusercontent.com/sciglio/QuantumPotes/master/Pulses.png)
 
+3. [Demodulation of a Signal](https://github.com/sciglio/QuantumPotes/blob/master/Demodulation.ipynb): Jupyter notebook where a signal already demodulated to the intermidiate frequency (~MHz) is reduced to its DC time trace using a single or both quadrature. ![Plot visualization](https://raw.githubusercontent.com/sciglio/QuantumPotes/master/Demodulation.png)
